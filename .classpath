@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="glygen-array-javaclient-0.0.1-SNAPSHOT-app-to-import.jar"/>
-	<classpathentry exported="true" kind="lib" path="glygen-array-javaclient-0.0.1-SNAPSHOT-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="glygen-array-javaclient-1.0.0-SNAPSHOT-app-to-import.jar"/>
 	<classpathentry exported="true" kind="lib" path="jackson-annotations-2.11.2.jar"/>
 	<classpathentry exported="true" kind="lib" path="jackson-core-2.11.2.jar"/>
 	<classpathentry exported="true" kind="lib" path="jackson-databind-2.11.2.jar"/>

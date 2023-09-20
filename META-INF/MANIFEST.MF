@@ -19,3 +19,4 @@ Export-Package: org.glygen.array.client,
  org.glygen.array.client.model.data,
  org.glygen.array.client.model.metadata,
  org.glygen.array.client.model.template
+Require-Bundle: org.apache;bundle-version="1.0.0"
